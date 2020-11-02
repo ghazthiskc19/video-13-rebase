@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "arial narrow";
+}
+body{
+    background-color: #ddd;
+    border: 5px solid black;
+}
+.wrapper {
+    margin: 0 auto;
+    width: 80vmax;
+    height: auto;
+    background-color: #ffffff;
+}
+
